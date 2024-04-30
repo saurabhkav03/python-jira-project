@@ -20,3 +20,6 @@
 ## Python Script
 
 1. Execute the provided Python script.
+
+You can find the issue ID by following [these instructions](https://confluence.atlassian.com/jirakb/finding-the-id-for-issue-types-646186508.html).
+
